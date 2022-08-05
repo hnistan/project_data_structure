@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/hani/project/mappath.cpp
+mappath.h
+/mnt/c/Users/hani/project/mappath.h
+
+/mnt/c/Users/hani/project/mappath.h
+vector
+-
+iostream
+-
+limits.h
+-
+stdio.h
+-
+
